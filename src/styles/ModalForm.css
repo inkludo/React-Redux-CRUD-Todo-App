@@ -1,0 +1,11 @@
+.new-todo-form{
+    margin-top:30px;
+}
+.datepiker-button{
+    display: flex;
+    justify-content: space-between;
+    margin-top:10px;
+}
+.datepiker, .add-button{
+    width: 195px;
+}
